@@ -1,3 +1,3 @@
 # reactsample
 
-Vamo' que lo ganamo'
+Por: Santiago Triana 201923265
