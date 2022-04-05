@@ -1,0 +1,35 @@
+npx create-react-app reactsample
+
+
+Borramos el src
+
+Creamos index.js
+
+import react from "react";
+import ReactDOM from "react-dom";
+import Post from "./post";
+
+
+ReactDOM.render(</Post>, document.getElementById("root"));
+
+npm start para comenzarla
+
+
+Creamos post.js
+Dentro de post.js
+
+import { useState } from "react";
+
+function Post(){
+	
+	const [ title ] = useState("Nuevo post");
+
+	return (<div><h1> Título</h1>
+	<p>Contenido de post</p>
+	<p>Likes</p>
+	<button>Likes</button>
+	</div>);
+}
+
+export default Post;
+

@@ -1,0 +1,142 @@
+.barra-navegacion{
+    background: #C4C4C4;
+}
+
+.titulo-principal{
+    font-family: Sevillana;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 65px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 23px;
+    margin-bottom: 22px;
+    margin-left: 59px;
+}
+
+.opciones-menu{
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 37px;
+    margin-bottom: 37px;
+    margin-right: 59px;
+}
+
+.opcion-seleccionada{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 30px;
+    text-decoration-line: underline;
+
+    color: #000000;
+}
+
+.div-principal{
+    width: 94%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.informacion-ruta{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 20px;
+}
+
+.div-barra-titulo{
+    height: 67px;
+    background: #C4C4C4;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 67px;
+    text-align: center;
+
+}
+
+hr{
+    border: 1px solid ;
+    border-color: #000000;
+}
+
+.div-lista-museos{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.rectangulo-museo{
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin:10px;
+    text-align: center;
+}
+
+.nombre-museo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.ciudad-museo{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.imagen-museo{
+    margin:10%;
+}
+
+.div-museo-detallado{
+    
+}
+
+.detalles-museo{
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    margin:10px;
+    min-height: 250px;
+    display:flex;
+    margin-bottom: 65px;
+}
+
+.rectangulo-obra{
+    background: #C4C4C4;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin:10px;
+    margin-left: 20%;
+    text-align: center;
+    min-height: 250px;
+}
+
+.texto-detalle-museo{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 33px;
+
+
+}
